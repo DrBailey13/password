@@ -1,0 +1,17 @@
+header{ text-align: center;
+    font-size: 60px;
+
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    
+  }
+
+   h1{
+    border-bottom-style: solid;
+    border-color: #777;
+
+  }
+  
