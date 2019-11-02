@@ -1,10 +1,28 @@
-# password
-password generator
+# Portfolio2
+
+## Installation
+No installation process required.
+
+## Usage
+This page is used to generate a password out of uppercase,lowercase, special characters and numbers.
+
+## Functionality 
+Generate Button: randomly generates the password according to if the user would like upper or lowercase letters, numbers, and special characters.
+Copy to Clipboard: Copies the password that is generated for the user.
 
 
+
+## Credits
+https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw
+https://www.w3schools.com/
+My classmates and TA's were also a big help in this process.
+https://getbootstrap.com/docs/3.4/
+
+
+## License
 MIT License
 
-Copyright (c) 2019 DeVante Bailey
+Copyright (c) [2019] [DeVante Bailey]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,4 +41,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-

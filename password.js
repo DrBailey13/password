@@ -31,7 +31,7 @@ if (howMany >= 8 && howMany <= 128) {
         password += schar;
     }
     // console.log(password)
-
+    
 console.log(password)
 function generate() {
     var answer = "";
