@@ -6,10 +6,6 @@ var schar = '!"#$%&()*+,-./<>=?@_`~|^'
 var password = ""
 
 
-// var upper = confirm("would you like uppercase letters")
-// var lower = confirm("would you like lowercase letters")
-// var numbers = confirm("would you like numbers")
-// var special = confirm("would you like special characters")
 
 var howMany = prompt("how many charcters would you like? must be between 8-128")
 
@@ -94,16 +90,12 @@ console.log(generate());
 
 
 
-function myFunction() {
+function copyPassword(){
     /* Get the text field */
-    var copyText = document.getElementById("text1");
+   document.getElementById("text1").select();
 
-    /* Select the text field */
-    copyText.select();
-    copyText.setSelectionRange(0, 99999); /*For mobile devices*/
+   document.execCommand("copy");
 
-    /* Copy the text inside the text field */
-    document.execCommand("copy");
-
+   alert("password has been copied to clipboard ");
 }
 }

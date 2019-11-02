@@ -15,3 +15,6 @@ header{ text-align: center;
 
   }
   
+  body{background-image: url(brianna-santellan-xtpQx26ABbM-unsplash.jpg);
+       background-position: center center;
+       background-size: cover;}
