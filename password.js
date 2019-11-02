@@ -30,7 +30,11 @@ if (howMany >= 8 && howMany <= 128) {
     if (special === true) {
         password += schar;
     }
-    // console.log(password)
+
+}
+
+else{confirm("must be bewtween 8 and 128 characters")
+document.location.reload()}
     
 console.log(password)
 function generate() {
@@ -46,56 +50,12 @@ console.log(generate());
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 function copyPassword(){
     /* Get the text field */
    document.getElementById("text1").select();
 
-   document.execCommand("copy");
+   document.execCommand("Copy");
 
    alert("password has been copied to clipboard ");
-}
+
 }
