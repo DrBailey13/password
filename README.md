@@ -44,7 +44,7 @@ SOFTWARE.
 
 ## Screenshots
 
-![](Screen Shot 2019-11-02 at 3.33.54 PM.png)
-![](Screen Shot 2019-11-02 at 3.34.24 PM.png)
-![](Screen Shot 2019-11-02 at 3.36.41 PM.png)
-![](Screen Shot 2019-11-02 at 3.37.20 PM.png)
+<img src="Screen Shot 2019-11-02 at 3.33.54 PM.png">
+<img src="Screen Shot 2019-11-02 at 3.34.24 PM.png">
+<img src="Screen Shot 2019-11-02 at 3.36.41 PM.png">
+<img src="Screen Shot 2019-11-02 at 3.37.20 PM.png">
