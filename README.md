@@ -10,6 +10,9 @@ This page is used to generate a password out of uppercase,lowercase, special cha
 Generate Button: randomly generates the password according to if the user would like upper or lowercase letters, numbers, and special characters.
 Copy to Clipboard: Copies the password that is generated for the user.
 
+## Link
+https://github.com/DrBailey13/password
+https://drbailey13.github.io/password/index.html
 
 
 ## Credits
