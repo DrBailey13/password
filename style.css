@@ -12,9 +12,10 @@ header{ text-align: center;
    h1{
     border-bottom-style: solid;
     border-color: #777;
+    color:whitesmoke;
 
   }
   
-  body{background-image: url(brianna-santellan-xtpQx26ABbM-unsplash.jpg);
+  body{background-image: url(cloudy-cold-frost-417222.jpg);
        background-position: center center;
        background-size: cover;}
